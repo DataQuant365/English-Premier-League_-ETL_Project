@@ -148,5 +148,5 @@ EPL_ETL_Project/
 
 ## Author
 
-**Aiswarya C K**: data analytics and data engineering
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Aiswarya C K**: Data Analytics Expert + Mentor
+[LinkedIn](www.linkedin.com/in/aiswarya-c-k) · [GitHub](https://github.com/DataQuant365)
